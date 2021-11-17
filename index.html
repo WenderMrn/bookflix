@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- vendors -->
+    <link rel="stylesheet" href="lib/owl/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="lib/owl/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="lib/jquey-modal/jquey-modal.css" />
+
+    <!-- local -->
+    <link rel="stylesheet" href="assets/styles/main.css" />
+    <link rel="stylesheet" href="assets/styles/responive.css" />
+
+    <title>BOOKFLIX</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h2 class="logo">BOOKFLIX</h2>
+        <nav>
+          <a href="#">Início</a>
+          <a href="">Livros</a>
+          <a href="">Categorias</a>
+          <a href="">Lançamentos</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="main-media">
+        <div class="container">
+          <h3 class="title">house of cards</h3>
+          <p class="description">
+            Um político inescrupuloso não mede esforços para conquistar o poder
+            nos EUA neste drama vencedor do Emmy e do Globo de Ouro.
+          </p>
+          <div class="action-buttons">
+            <button role="button" class="button" onclick="buyNow()">
+              <i class="fas fa-shopping-cart"></i> Comprar agora
+            </button>
+            <button role="button" class="button" onclick="moreInfo()">
+              <i class="fas fa-info-circle"></i> Mais informações
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-media">
+        <div class="owl-carousel owl-theme"></div>
+      </div>
+    </main>
+    <script
+      src="https://kit.fontawesome.com/efc06d20c2.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- vendors -->
+    <script src="lib/owl/js/jquery.min.js"></script>
+    <script src="lib/owl/js/owl.carousel.js"></script>
+    <script src="lib/jquey-modal/jquery-modal.js"></script>
+
+    <!-- local -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

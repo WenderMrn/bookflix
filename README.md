@@ -11,5 +11,6 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 - https://jquery.com/
 - https://owlcarousel2.github.io/OwlCarousel2/
 - https://jquerymodal.com/
+- https://fontawesome.com/start
 
 ![alt text](/assets/img/home-screen.jpeg)

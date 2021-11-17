@@ -1,6 +1,6 @@
 # Bookflix
 
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript | Digital Innovation One
+Desafio recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript | Digital Innovation One
 
 ### Digital Innovation One
 
